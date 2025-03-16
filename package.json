@@ -1,6 +1,6 @@
 {
   "name": "react-conditional-render-component",
-  "version": "1.0.0",
+  "version": "1.1.1",
   "keywords": [
     "react",
     "conditional",
@@ -21,7 +21,11 @@
     "build": "tsc",
     "test": "jest"
   },
-  "author": "",
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/ahmedGamalhamed/react-conditional-render-component"
+  },
+  "author": "Ahmed Gamal",
   "license": "ISC",
   "devDependencies": {
     "@testing-library/dom": "^10.4.0",
